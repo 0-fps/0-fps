@@ -3,7 +3,6 @@ I Am from argentina 23yo!.
 Living in Rosario :)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Fps.png" alt="" />
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4270024" style='border:none;'></iframe>
 
 <!--
 **0-fps/0-fps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
