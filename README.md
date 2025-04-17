@@ -2,6 +2,8 @@ I Am from argentina 23yo!.
 
 Living in Rosario :)
 
+Cybersecurity enthusiast <3
+
 <a href="https://tryhackme.com/p/Fps">
         <img src="https://tryhackme-badges.s3.amazonaws.com/Fps.png" alt="" />
 </a>
